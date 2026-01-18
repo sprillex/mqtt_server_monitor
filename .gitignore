@@ -1,0 +1,32 @@
+# --- Security ---
+# NEVER commit your actual credentials
+.env
+
+# --- Python ---
+# Ignore the virtual environment folder
+venv/
+.venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# --- Operating System ---
+# Linux/OS X temporary files
+.DS_Store
+.directory
+.Trash-*
+
+# --- Editors ---
+# VS Code
+.vscode/
+# Vim
+*.swp
+*~
