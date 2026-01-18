@@ -11,7 +11,7 @@ A lightweight Python script designed for **DietPi** (Raspberry Pi) that pushes s
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Clone the repository and enter the directory:**
    ```bash
    git clone [https://github.com/sprillex/mqtt_server_monitor.git](https://github.com/sprillex/mqtt_server_monitor.git)
    cd mqtt_server_monitor
